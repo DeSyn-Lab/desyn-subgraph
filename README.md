@@ -1,2 +1,1 @@
-# desyn-subgraph
-Desyn bugbounty POC
+# Desyn bugbounty POC
